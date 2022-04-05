@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-30T10:33:18 IST" name="Suite" finished-at="2022-03-30T10:34:35 IST" duration-ms="76507">
+    <groups>
+    </groups>
+    <test started-at="2022-03-30T10:33:18 IST" name="Test" finished-at="2022-03-30T10:33:59 IST" duration-ms="40663">
+      <class name="com.mmp.scripts.TC_01">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.mmp.scripts.TC_01@33bc72d1]" started-at="2022-03-30T10:33:18 IST" name="setup" finished-at="2022-03-30T10:33:25 IST" duration-ms="6933" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePage()[pri:1, instance:com.mmp.scripts.TC_01@33bc72d1]" started-at="2022-03-30T10:33:25 IST" name="HomePage" finished-at="2022-03-30T10:33:33 IST" duration-ms="7771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method signature="CabSearch()[pri:2, instance:com.mmp.scripts.TC_01@33bc72d1]" started-at="2022-03-30T10:33:33 IST" name="CabSearch" finished-at="2022-03-30T10:33:49 IST" duration-ms="16386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CabSearch -->
+        <test-method signature="CabsList()[pri:3, instance:com.mmp.scripts.TC_01@33bc72d1]" started-at="2022-03-30T10:33:49 IST" name="CabsList" finished-at="2022-03-30T10:33:56 IST" duration-ms="6916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CabsList -->
+        <test-method is-config="true" signature="close_method()[pri:0, instance:com.mmp.scripts.TC_01@33bc72d1]" started-at="2022-03-30T10:33:56 IST" name="close_method" finished-at="2022-03-30T10:33:59 IST" duration-ms="2587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_method -->
+      </class> <!-- com.mmp.scripts.TC_01 -->
+    </test> <!-- Test -->
+    <test started-at="2022-03-30T10:33:59 IST" name="Test2" finished-at="2022-03-30T10:34:18 IST" duration-ms="19374">
+      <class name="com.mmp.scripts.TC_02">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.mmp.scripts.TC_02@6c4906d3]" started-at="2022-03-30T10:33:59 IST" name="setup" finished-at="2022-03-30T10:34:04 IST" duration-ms="5539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="demo()[pri:1, instance:com.mmp.scripts.TC_02@6c4906d3]" started-at="2022-03-30T10:34:04 IST" name="demo" finished-at="2022-03-30T10:34:10 IST" duration-ms="5660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo2()[pri:2, instance:com.mmp.scripts.TC_02@6c4906d3]" started-at="2022-03-30T10:34:10 IST" name="demo2" finished-at="2022-03-30T10:34:13 IST" duration-ms="3100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method signature="demo3()[pri:3, instance:com.mmp.scripts.TC_02@6c4906d3]" started-at="2022-03-30T10:34:13 IST" name="demo3" finished-at="2022-03-30T10:34:16 IST" duration-ms="2957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+        <test-method is-config="true" signature="close_method()[pri:0, instance:com.mmp.scripts.TC_02@6c4906d3]" started-at="2022-03-30T10:34:16 IST" name="close_method" finished-at="2022-03-30T10:34:18 IST" duration-ms="2108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_method -->
+      </class> <!-- com.mmp.scripts.TC_02 -->
+    </test> <!-- Test2 -->
+    <test started-at="2022-03-30T10:34:18 IST" name="Test3" finished-at="2022-03-30T10:34:35 IST" duration-ms="16377">
+      <class name="com.mmp.scripts.TC_03">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.mmp.scripts.TC_03@673fdbce]" started-at="2022-03-30T10:34:18 IST" name="setup" finished-at="2022-03-30T10:34:23 IST" duration-ms="4922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePage()[pri:1, instance:com.mmp.scripts.TC_03@673fdbce]" started-at="2022-03-30T10:34:23 IST" name="HomePage" finished-at="2022-03-30T10:34:30 IST" duration-ms="7350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method signature="Hotel_Booking_Page()[pri:2, instance:com.mmp.scripts.TC_03@673fdbce]" started-at="2022-03-30T10:34:30 IST" name="Hotel_Booking_Page" finished-at="2022-03-30T10:34:33 IST" duration-ms="2180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hotel_Booking_Page -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.mmp.scripts.TC_03@673fdbce]" started-at="2022-03-30T10:34:33 IST" name="close" finished-at="2022-03-30T10:34:35 IST" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mmp.scripts.TC_03 -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>

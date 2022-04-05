@@ -1,0 +1,148 @@
+2022-03-28 13:37:09,430 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-28 13:37:22,957 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-28 13:37:28,886 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-28 13:39:01,562 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-28 13:39:05,262 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-28 13:39:06,568 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-28 13:39:06,593 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-28 13:39:06,784 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-28 13:39:41,187 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-28 13:39:42,203 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-28 18:28:11,692 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-28 18:28:28,201 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-28 18:28:40,946 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-28 18:30:15,258 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-28 18:30:18,486 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-28 18:30:22,722 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-28 18:30:22,796 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-28 18:30:23,156 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-28 18:31:07,228 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-28 18:31:09,592 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-28 18:50:19,166 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-28 18:50:36,453 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-28 18:50:44,362 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-28 19:08:57,389 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-28 19:09:12,267 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-28 19:09:21,938 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 09:51:22,965 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-29 09:51:37,464 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-29 09:51:43,319 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 10:56:54,775 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-29 10:57:10,754 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-29 10:57:18,458 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 11:52:20,442 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-29 11:52:39,662 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-29 11:52:47,229 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 11:53:09,221 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 11:53:13,673 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 11:53:17,320 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 11:53:17,365 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 11:53:17,745 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 11:54:38,254 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-29 11:54:56,629 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-29 11:55:03,954 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 11:55:41,491 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-29 11:55:44,359 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-29 11:57:27,124 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-29 11:57:45,886 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-29 11:57:52,628 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 11:58:13,307 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 11:58:17,016 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 11:58:20,300 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 11:58:20,375 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 11:58:20,705 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 11:58:40,450 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-29 11:58:43,329 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-29 12:02:33,389 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-29 12:02:51,207 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-29 12:02:56,767 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 12:03:11,059 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 12:03:13,486 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 12:03:16,244 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 12:03:16,283 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 12:03:16,555 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 12:03:32,015 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-29 12:03:33,631 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-29 12:40:32,035 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-29 12:40:50,056 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-29 12:40:57,475 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 12:41:15,703 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 12:41:18,211 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 12:41:21,436 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 12:41:21,497 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 12:41:21,850 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 12:41:39,510 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-29 12:41:42,289 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-29 12:50:33,798 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-29 12:50:51,432 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-29 12:50:57,742 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-29 12:51:16,698 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 12:51:23,335 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 12:51:26,111 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 12:51:26,198 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 12:51:26,573 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 12:51:44,922 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-29 12:51:47,527 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-29 17:18:15,307 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 17:18:18,115 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 17:18:20,232 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 17:18:20,313 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 17:18:20,634 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 17:23:08,742 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 17:23:13,945 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 17:23:16,212 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 17:23:16,250 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 17:23:16,509 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 17:48:40,308 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 17:48:42,385 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 17:48:44,712 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 17:48:44,754 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 17:48:45,039 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 17:51:48,834 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 17:51:52,471 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 17:51:55,170 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 17:51:55,227 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 17:51:55,675 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 17:56:41,369 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 17:56:44,506 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 17:56:47,358 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 17:56:47,451 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 17:56:47,873 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-29 17:59:12,501 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-29 17:59:59,403 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-29 18:00:05,892 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-29 18:00:05,965 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-29 18:00:06,326 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-30 08:40:01,227 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-30 08:40:19,289 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-30 08:40:29,756 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-30 08:40:46,395 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-30 08:40:49,841 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-30 08:40:52,742 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-30 08:40:52,839 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-30 08:40:53,313 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-30 08:41:10,424 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-30 08:41:12,498 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-30 09:11:31,630 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-30 09:11:48,978 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-30 09:11:57,438 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-30 09:12:16,504 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-30 09:12:20,291 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-30 09:12:23,109 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-30 09:12:23,263 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-30 09:12:23,662 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-30 09:12:40,556 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-30 09:12:42,924 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
+2022-03-30 09:42:23,868 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-30 09:42:38,634 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-30 09:42:48,352 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-30 10:33:33,327 - ActivityLog.class -INFO - Testcase is passed .. cab booking page is opened
+2022-03-30 10:33:49,730 - ActivityLog.class -INFO - Testcase is passed .. The detais are entered
+2022-03-30 10:33:56,652 - ActivityLog.class -INFO - Testcase is passed .. The list of cabs is displayed
+2022-03-30 10:34:10,515 - ActivityLog.class -INFO - Testcase is passed .. gift card page is opened
+2022-03-30 10:34:13,617 - ActivityLog.class -INFO - Testcase is passed .. corporate gift card page is opened
+2022-03-30 10:34:16,188 - ActivityLog.class -INFO - Testcase is passed .. The details for corporate gift card are entered
+2022-03-30 10:34:16,253 - ActivityLog.class -INFO - Testcase is passed .. The error message is displayed
+2022-03-30 10:34:16,576 - ActivityLog.class -INFO - Testcase is passed .. The screenshot of error message is captured
+2022-03-30 10:34:30,989 - ActivityLog.class -INFO - Testcase is passed .. hotel booking page is opened
+2022-03-30 10:34:33,171 - ActivityLog.class -INFO - Testcase is passed .. the number of adult persons is displayed
